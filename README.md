@@ -2,7 +2,7 @@
 ![Anthem Portal(Demo)](https://github.com/openanthem/oss/raw/master/tools/logo/anthem_banner.png)
 # Cortex
 
-Open Anthem Sandbox Project
+Open Anthem Sandbox
 
 # Project Discussions
 
