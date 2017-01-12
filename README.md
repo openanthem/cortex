@@ -1,3 +1,4 @@
+
 ![Anthem Portal(Demo)](https://github.com/openanthem/oss/raw/master/tools/logo/anthem_banner.png)
 # Cortex
 
@@ -39,4 +40,3 @@ If are interested in becoming a project sponsor,  please complete our [informati
 You can follow along through using our [Cortex](https://github.com/openanthem/cortex/) sandbox project, [found here](https://github.com/openanthem/cortex/)
 
 Then follow along with steps found in the [Contribution example](https://raw.githubusercontent.com/openanthem/oss/master/CONTRIBUTING.md)
-
