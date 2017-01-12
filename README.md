@@ -1,2 +1,1 @@
-# cortex
-General Project Implementation
+Welcome to Cortext, the OSS Sandbox project to see kick the tires a little.
