@@ -1,0 +1,7 @@
+Steps:
+
+* CLoned my fork https://github.com/loudbinary/cortex
+* git checkout -b mybranchname 
+* make my changes, added this file
+* commit, saving, push, then performing a pull request.
+
