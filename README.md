@@ -1,6 +1,8 @@
 
 ![Anthem Portal(Demo)](https://github.com/openanthem/oss/raw/master/tools/logo/anthem_banner.png)
 # Cortex
+![Build Status](https://bamboo.previewmy.net/plugins/servlet/wittified/build-status/COR-BUIL)
+[![codecov](https://codecov.io/gh/openanthem/cortex/branch/develop/graph/badge.svg)](https://codecov.io/gh/openanthem/cortex)
 
 Open Anthem Sandbox
 
