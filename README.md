@@ -3,6 +3,8 @@
 # Cortex
 ![Build Status](https://bamboo.previewmy.net/plugins/servlet/wittified/build-status/COR-BUIL)
 [![codecov](https://codecov.io/gh/openanthem/cortex/branch/develop/graph/badge.svg)](https://codecov.io/gh/openanthem/cortex)
+![SonarQube](https://img.shields.io/sonar/http/sonarqube.com/org.springframework:gs-spring-boot/tech_debt.svg)
+![SonarQube](https://img.shields.io/sonar/http/sonarqube.com/org.springframework:gs-spring-boot/coverage.svg)
 
 Open Anthem Sandbox
 
@@ -10,7 +12,7 @@ Open Anthem Sandbox
 
 You can participate in the outcome of this project through our community forums.
 
-Join the forums by clicking [here](https://discourse.previewmy.net/c/Cortex)
+Join the forums by clicking [here](https://discourse.previewmy.net/c/Cortex)!
 
 ## Getting Involved and Contributing
 
