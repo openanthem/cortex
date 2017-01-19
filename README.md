@@ -10,7 +10,7 @@ Open Anthem Sandbox
 
 You can participate in the outcome of this project through our community forums.
 
-Join the forums by clicking [here](https://discourse.previewmy.net/c/Cortex)
+Join the forums by clicking [here](https://discourse.previewmy.net/c/Cortex)!
 
 ## Getting Involved and Contributing
 
